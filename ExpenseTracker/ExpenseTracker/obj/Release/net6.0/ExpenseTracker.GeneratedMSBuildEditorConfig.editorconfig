@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\dboze\OneDrive\Documents\Local-Repo-Copies\ExpensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/dboze/OneDrive/Documents/Local-Repo-Copies/ExpensiveExpenses/expense-tracker/ExpenseTracker/ExpenseTracker/Views/Categoryontroller/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbnRyb2xsZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dboze/OneDrive/Documents/Local-Repo-Copies/ExpensiveExpenses/expense-tracker/ExpenseTracker/ExpenseTracker/Views/Categoryontroller/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbnRyb2xsZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dboze/OneDrive/Documents/Local-Repo-Copies/ExpensiveExpenses/expense-tracker/ExpenseTracker/ExpenseTracker/Views/Categoryontroller/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbnRyb2xsZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dboze/OneDrive/Documents/Local-Repo-Copies/ExpensiveExpenses/expense-tracker/ExpenseTracker/ExpenseTracker/Views/Categoryontroller/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbnRyb2xsZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dboze/OneDrive/Documents/Local-Repo-Copies/ExpensiveExpenses/expense-tracker/ExpenseTracker/ExpenseTracker/Views/Categoryontroller/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlvbnRyb2xsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dboze/OneDrive/Documents/Local-Repo-Copies/ExpensiveExpenses/expense-tracker/ExpenseTracker/ExpenseTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
