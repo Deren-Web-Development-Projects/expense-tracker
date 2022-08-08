@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EqKaNeJy4rh+8MDPXp/y+6JAUWGfKVzBZCXou7Gxi2WHQuiE8vC4kZioT137wUUePWtdwfR5j9XsZDY5GsDVag==",
+  "dgSpecHash": "P/nzMDtQwugwwx4WZJeZp6Yw9Dr1FaMzmDiJhVGIygmToYZie1yIaR2HHi8yCBEnN0VhwlmPs5GyTf3uO8OwHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dboze\\OneDrive\\Documents\\Local-Repo-Copies\\ExpensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+  "projectFilePath": "C:\\Users\\dboze\\Documents\\Local-Repos\\expensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dboze\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dboze\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

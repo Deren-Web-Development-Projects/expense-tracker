@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dboze\\OneDrive\\Documents\\Local-Repo-Copies\\ExpensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {}
+    "C:\\Users\\dboze\\Documents\\Local-Repos\\expensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dboze\\OneDrive\\Documents\\Local-Repo-Copies\\ExpensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {
+    "C:\\Users\\dboze\\Documents\\Local-Repos\\expensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dboze\\OneDrive\\Documents\\Local-Repo-Copies\\ExpensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectUniqueName": "C:\\Users\\dboze\\Documents\\Local-Repos\\expensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
         "projectName": "ExpenseTracker",
-        "projectPath": "C:\\Users\\dboze\\OneDrive\\Documents\\Local-Repo-Copies\\ExpensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\expensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
         "packagesPath": "C:\\Users\\dboze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dboze\\OneDrive\\Documents\\Local-Repo-Copies\\ExpensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\obj\\",
+        "outputPath": "C:\\Users\\dboze\\Documents\\Local-Repos\\expensiveExpenses\\expense-tracker\\ExpenseTracker\\ExpenseTracker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\dboze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
