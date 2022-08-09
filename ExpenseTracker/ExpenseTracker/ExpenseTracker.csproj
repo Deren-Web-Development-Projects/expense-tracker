@@ -19,5 +19,6 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.7" />
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="20.2.0.43" />
   </ItemGroup>
 </Project>

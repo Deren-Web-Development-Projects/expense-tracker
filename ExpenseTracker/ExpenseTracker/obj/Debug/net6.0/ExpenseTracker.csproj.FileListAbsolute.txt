@@ -581,3 +581,6 @@ C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTr
 C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.pdb
 C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.genruntimeconfig.cache
 C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ref\ExpenseTracker.dll
+C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker\bin\Debug\net6.0\Syncfusion.EJ2.dll
+C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\dboze\Documents\Local-Repos\expensiveExpenses\expense-tracker\ExpenseTracker\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
